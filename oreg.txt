@@ -1,0 +1,2 @@
+II/F:
+	Első idős ember korának helye a listában: 0.
